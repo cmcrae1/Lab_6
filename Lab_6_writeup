@@ -1,0 +1,12 @@
+The first thing I did was to download the data for France and load it into GEODA.
+Then I opened the weights manager and created the Guerry_85_q category. I then
+created a natural breaks map of donations per capita. Then I performed a univariate
+local Moran's 1 and set the variable name as Donatns. This created two maps, one
+significance map and one cluster map. I then used the randomization tool to
+increase the number of permutations. Next I analyzed the outliers using the scatter
+plot to select which values I would like to look at. Next I added the three categories
+LISA_I, LISA_CL, and LISA_P. After that I added a significance filter of .01, which
+took out non significant data. Next I explored the Boneferroni bound procedure. After
+that I added the I and FDR tables to the attribute table. Next I looked at the cores
+and neighbors while widening the P values. The conditional map came next and I
+compared literacy to clergy. After this I created univariate local geary cluster map.
