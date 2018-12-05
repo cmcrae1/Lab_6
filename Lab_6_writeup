@@ -10,3 +10,6 @@ took out non significant data. Next I explored the Boneferroni bound procedure. 
 that I added the I and FDR tables to the attribute table. Next I looked at the cores
 and neighbors while widening the P values. The conditional map came next and I
 compared literacy to clergy. After this I created univariate local geary cluster map.
+For the last part I choose to compare percent males vs. clergy and the results showed
+that there wasnt much correlation between the 2. In fact there was a negative
+correlation between the two.
